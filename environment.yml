@@ -18,5 +18,5 @@ dependencies:
   - ipywidgets
   - warnings
   - plotly
-  - plotly.express as px
-  - plotly.graph_objects as go
+  - plotly.express
+  - plotly.graph_objects

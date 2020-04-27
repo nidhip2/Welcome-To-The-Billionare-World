@@ -13,6 +13,4 @@ dependencies:
   - dask
   - matplotlib
   - ipywidgets
-  - warnings
   - plotly
-  - PIL

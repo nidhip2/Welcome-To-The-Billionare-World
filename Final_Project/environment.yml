@@ -1,0 +1,22 @@
+name: example-environment
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - psutil
+  - toolz
+  - matplotlib
+  - dill
+  - pandas
+  - partd
+  - bokeh
+  - dask
+  - matplotlib
+  - matplotlib.colors
+  - matplotlib.pyplot
+  - numpy
+  - ipywidgets
+  - warnings
+  - plotly
+  - plotly.express
+  - plotly.graph_objects

@@ -7,6 +7,6 @@
 <img src="Images/CodeB.png">
 <h3><strong>Rankings</strong></h3>
 <h3>Lets begin with the Rankings in the dataset. The below graphs bifurcates the count of billionares based on the Year. For the year of 2014 the ranking in ascending order was: United States, China, Russia, Germany, Brazil and so ion. Where as In the year 1996 the ranking in the ascending order was: United States, germany, Japan, Hong Kong, Mexico and so on. This clearly shows that the count in USA over the years have been stable but China has increasing number of billionares over they years.</h3>
-<img src="Images/TopCountry2014.png">
-<img src="Images/TopCountry1996.png">
+<img src="Images/TopCountry2014.png" width="13" height="13">
+<img src="Images/TopCountry1996.png" width="13" height="13>
 

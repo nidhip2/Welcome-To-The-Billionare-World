@@ -59,7 +59,7 @@ A new report suggested the world’s 2,153 billionaires have more wealth than 4.
 
 <li><a href="https://www.forbes.com/billionaires/">https://www.forbes.com/billionaires/</li>
 
-<li><a href="ttps://plotly.com/python/plotly-fundamentals/">ttps://plotly.com/python/plotly-fundamentals/</li>
+<li><a href="https://plotly.com/python/plotly-fundamentals/">https://plotly.com/python/plotly-fundamentals/</li>
 
 <li><a href="https://boingboing.net/2019/11/22/visualizing-just-how-stupidly.html">https://boingboing.net/2019/11/22/visualizing-just-how-stupidly.html</li>
 

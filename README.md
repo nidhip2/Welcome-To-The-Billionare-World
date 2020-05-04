@@ -1,5 +1,3 @@
-
-
-<img src="Images/Age_range_Basedon_Region.png"/>
+<h1>Welcome To The Billionare World: Data Visual analysis to learn some new facts about the world's richest.<
 
 

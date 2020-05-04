@@ -1,4 +1,4 @@
-# nidhip2.github.io
+# The World of Billionares: Data Visualization guide about the richest people across the globe.
 <h2>[LESSON TITLE]</h2>
 <h3>[SUB-LESSON TITLE]</h3>
 

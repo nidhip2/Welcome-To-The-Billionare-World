@@ -37,19 +37,19 @@ A new report suggested the world’s 2,153 billionaires have more wealth than 4.
 
 <h2>References</h2>
 <ul class="task-list">
-<li><a href="https://www.bloomberg.com/news/articles/2020-01-20/2-153-billionaires-are-richer-than-60-of-the-world-says-oxfam">https://www.bloomberg.com/news/articles/2020-01-20/2-153-billionaires-are-richer-than-60-of-the-world-says-oxfam</li>
-<li><a href="https://time.com/5768346/billionaires-wealth/">https://time.com/5768346/billionaires-wealth/</li>
-<li><a href="https://www.theguardian.com/commentisfree/2019/nov/06/billionaires-super-rich-extreme-wealth-political-influence-inequality-gates-bezos-buffett">https://www.theguardian.com/commentisfree/2019/nov/06/billionaires-super-rich-extreme-wealth-political-influence-inequality-gates-bezos-buffett</li>
-<li><a href="https://www.import.io/post/what-is-data-visualization/">https://www.import.io/post/what-is-data-visualization/</li>
-<li><a href="https://medium.com/@powusu381/a-complete-data-analysis-walk-through-with-pythons-pandas-matplotlib-and-seaborn-2df9f6a3035b">https://medium.com/@powusu381/a-complete-data-analysis-walk-through-with-pythons-pandas-matplotlib-and-seaborn-2df9f6a3035b</li>
-<li><a href="https://ips-dc.org/report-billionaire-bonanza-2017/">https://ips-dc.org/report-billionaire-bonanza-2017/</li>
-<li><a href="https://www.federalreserve.gov/publications/files/2018-report-economic-well-being-us-households-201905.pdf">https://www.federalreserve.gov/publications/files/2018-report-economic-well-being-us-households-201905.pdf</li>
-<li><a href="https://www.cnn.com/2020/02/24/perspectives/billionaire-wealth-taxes/index.html">https://www.cnn.com/2020/02/24/perspectives/billionaire-wealth-taxes/index.html</li>
-<li><a href="https://knoema.com/onondkd/forbes-2016-world-s-billionaires-list">https://knoema.com/onondkd/forbes-2016-world-s-billionaires-list</li>
-<li><a href="https://howmuch.net/articles/richest-billionaires-by-country-2019">https://howmuch.net/articles/richest-billionaires-by-country-2019</li>
-<li><a href="https://www.forbes.com/billionaires/">https://www.forbes.com/billionaires/</li>
-<li><a href="https://plotly.com/python/plotly-fundamentals/">https://plotly.com/python/plotly-fundamentals/</li>
-<li><a href="https://boingboing.net/2019/11/22/visualizing-just-how-stupidly.html">https://boingboing.net/2019/11/22/visualizing-just-how-stupidly.html</li>
-<li><a href="http://www.iie.com/publications/interstitial.cfm?ResearchID=2917">http://www.iie.com/publications/interstitial.cfm?ResearchID=2917</li>
-<li><a href="https://www.piie.com/publications/working-papers/origins-superrich-billionaire-characteristics-database">https://www.piie.com/publications/working-papers/origins-superrich-billionaire-characteristics-database</li>
+<li><a href="https://www.bloomberg.com/news/articles/2020-01-20/2-153-billionaires-are-richer-than-60-of-the-world-says-oxfam">https://www.bloomberg.com/news/articles/2020-01-20/2-153-billionaires-are-richer-than-60-of-the-world-says-oxfam</a></li>
+<li><a href="https://time.com/5768346/billionaires-wealth/">https://time.com/5768346/billionaires-wealth/</a></li>
+<li><a href="https://www.theguardian.com/commentisfree/2019/nov/06/billionaires-super-rich-extreme-wealth-political-influence-inequality-gates-bezos-buffett">https://www.theguardian.com/commentisfree/2019/nov/06/billionaires-super-rich-extreme-wealth-political-influence-inequality-gates-bezos-buffett</a></li>
+<li><a href="https://www.import.io/post/what-is-data-visualization/">https://www.import.io/post/what-is-data-visualization/</a></li>
+<li><a href="https://medium.com/@powusu381/a-complete-data-analysis-walk-through-with-pythons-pandas-matplotlib-and-seaborn-2df9f6a3035b">https://medium.com/@powusu381/a-complete-data-analysis-walk-through-with-pythons-pandas-matplotlib-and-seaborn-2df9f6a3035b</a></li>
+<li><a href="https://ips-dc.org/report-billionaire-bonanza-2017/">https://ips-dc.org/report-billionaire-bonanza-2017/</a></li>
+<li><a href="https://www.federalreserve.gov/publications/files/2018-report-economic-well-being-us-households-201905.pdf">https://www.federalreserve.gov/publications/files/2018-report-economic-well-being-us-households-201905.pdf</a></li>
+<li><a href="https://www.cnn.com/2020/02/24/perspectives/billionaire-wealth-taxes/index.html">https://www.cnn.com/2020/02/24/perspectives/billionaire-wealth-taxes/index.html</a></li>
+<li><a href="https://knoema.com/onondkd/forbes-2016-world-s-billionaires-list">https://knoema.com/onondkd/forbes-2016-world-s-billionaires-list</a></li>
+<li><a href="https://howmuch.net/articles/richest-billionaires-by-country-2019">https://howmuch.net/articles/richest-billionaires-by-country-2019</a></li>
+<li><a href="https://www.forbes.com/billionaires/">https://www.forbes.com/billionaires/</a></li>
+<li><a href="https://plotly.com/python/plotly-fundamentals/">https://plotly.com/python/plotly-fundamentals/</a></li>
+<li><a href="https://boingboing.net/2019/11/22/visualizing-just-how-stupidly.html">https://boingboing.net/2019/11/22/visualizing-just-how-stupidly.html</a></li>
+<li><a href="http://www.iie.com/publications/interstitial.cfm?ResearchID=2917">http://www.iie.com/publications/interstitial.cfm?ResearchID=2917</a></li>
+<li><a href="https://www.piie.com/publications/working-papers/origins-superrich-billionaire-characteristics-database">https://www.piie.com/publications/working-papers/origins-superrich-billionaire-characteristics-database</a></li>
 </ul>

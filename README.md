@@ -6,7 +6,7 @@ A new report suggested the world’s 2,153 billionaires have more wealth than 4.
 <h3>All of this got me interested in the dataset about these <a href="https://think.cs.vt.edu/corgis/csv/billionaires/">billionaires</a> compiled by few researchers at <a href="http://www.iie.com/publications/interstitial.cfm?ResearchID=2917">Peterson Institute for International Economics</a> from Forbes World’s Billionaires lists from 1996-2014.</h3>
 
 <h3>In this digital age we have become more aware of the trends and patterns occurring in our daily lifestyle. We have visuals embedded in our daily routines so much that we forget to stop and think about how is data involved in this. For example, we watch sci-fie movies displaying stats of a robot in the fight on a blue hue screen in the air, or games score on TV giving the stats of the players and records of the matches, smartwatches monitoring our pulses and displaying the data. You name it and we have it. So in this report, I have tried to use such data visualization techniques to answer a few questions about the world's richest. I have included a few representations which inspired my analysis and added dimension to my findings. So let's get started and obtain some insights based on the data we have.</h3>
-<h3>The interactive visualizations for are present on this <a href="https://mybinder.org/v2/gh/nidhip2/Welcome-To-The-Billionare-World/master">link</a>.</h3>
+<h3>The interactive visualizations from the data are present on this <a href="https://mybinder.org/v2/gh/nidhip2/Welcome-To-The-Billionare-World/master">link</a>.</h3>
 <h3>To begin with we load the CSV files and extract the data into a data frame. This will help us to see the number of rows and columns in the data frame. We will check the data types of the columns, null/NaN values, and further any discrepancies present in the dataset. The link to the full working code is provided at the end of the report. I have replaced the null and negative rows in Age column with the  mean age of the column I have also changed the column names in the dataset to be more consistent.</h3>
 <img src="Images/CodeA.png">
 <img src="Images/CodeB.png">
@@ -36,34 +36,20 @@ A new report suggested the world’s 2,153 billionaires have more wealth than 4.
 <img src="Images/How_Much_Wealth.png">
 
 <h2>References</h2>
-<ul>
+<ul class="task-list">
 <li><a href="https://www.bloomberg.com/news/articles/2020-01-20/2-153-billionaires-are-richer-than-60-of-the-world-says-oxfam">https://www.bloomberg.com/news/articles/2020-01-20/2-153-billionaires-are-richer-than-60-of-the-world-says-oxfam</li>
-
 <li><a href="https://time.com/5768346/billionaires-wealth/">https://time.com/5768346/billionaires-wealth/</li>
-
 <li><a href="https://www.theguardian.com/commentisfree/2019/nov/06/billionaires-super-rich-extreme-wealth-political-influence-inequality-gates-bezos-buffett">https://www.theguardian.com/commentisfree/2019/nov/06/billionaires-super-rich-extreme-wealth-political-influence-inequality-gates-bezos-buffett</li>
-
 <li><a href="https://www.import.io/post/what-is-data-visualization/">https://www.import.io/post/what-is-data-visualization/</li>
-
 <li><a href="https://medium.com/@powusu381/a-complete-data-analysis-walk-through-with-pythons-pandas-matplotlib-and-seaborn-2df9f6a3035b">https://medium.com/@powusu381/a-complete-data-analysis-walk-through-with-pythons-pandas-matplotlib-and-seaborn-2df9f6a3035b</li>
-
 <li><a href="https://ips-dc.org/report-billionaire-bonanza-2017/">https://ips-dc.org/report-billionaire-bonanza-2017/</li>
-
 <li><a href="https://www.federalreserve.gov/publications/files/2018-report-economic-well-being-us-households-201905.pdf">https://www.federalreserve.gov/publications/files/2018-report-economic-well-being-us-households-201905.pdf</li>
-
 <li><a href="https://www.cnn.com/2020/02/24/perspectives/billionaire-wealth-taxes/index.html">https://www.cnn.com/2020/02/24/perspectives/billionaire-wealth-taxes/index.html</li>
-
 <li><a href="https://knoema.com/onondkd/forbes-2016-world-s-billionaires-list">https://knoema.com/onondkd/forbes-2016-world-s-billionaires-list</li>
-
 <li><a href="https://howmuch.net/articles/richest-billionaires-by-country-2019">https://howmuch.net/articles/richest-billionaires-by-country-2019</li>
-
 <li><a href="https://www.forbes.com/billionaires/">https://www.forbes.com/billionaires/</li>
-
 <li><a href="https://plotly.com/python/plotly-fundamentals/">https://plotly.com/python/plotly-fundamentals/</li>
-
 <li><a href="https://boingboing.net/2019/11/22/visualizing-just-how-stupidly.html">https://boingboing.net/2019/11/22/visualizing-just-how-stupidly.html</li>
-
 <li><a href="http://www.iie.com/publications/interstitial.cfm?ResearchID=2917">http://www.iie.com/publications/interstitial.cfm?ResearchID=2917</li>
-
 <li><a href="https://www.piie.com/publications/working-papers/origins-superrich-billionaire-characteristics-database">https://www.piie.com/publications/working-papers/origins-superrich-billionaire-characteristics-database</li>
 </ul>
